@@ -1,0 +1,9 @@
+/home/khodijah/komgraf_tugas1/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/komgraf_tugas1.dir
+/home/khodijah/komgraf_tugas1/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/edit_cache.dir
+/home/khodijah/komgraf_tugas1/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/rebuild_cache.dir
+/home/khodijah/komgraf_tugas1/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/list_install_components.dir
+/home/khodijah/komgraf_tugas1/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/install.dir
+/home/khodijah/komgraf_tugas1/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/install/local.dir
+/home/khodijah/komgraf_tugas1/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/install/strip.dir
+/home/khodijah/komgraf_tugas1/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/komgraf_tugas1_autogen_timestamp_deps.dir
+/home/khodijah/komgraf_tugas1/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/komgraf_tugas1_autogen.dir

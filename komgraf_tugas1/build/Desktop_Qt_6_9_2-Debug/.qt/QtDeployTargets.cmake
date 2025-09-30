@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_komgraf_tugas1_FILE /home/khodijah/komgraf_tugas1/build/Desktop_Qt_6_9_2-Debug/komgraf_tugas1)
+set(__QT_DEPLOY_TARGET_komgraf_tugas1_TYPE EXECUTABLE)
